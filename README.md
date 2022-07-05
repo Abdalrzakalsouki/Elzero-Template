@@ -1,1 +1,2 @@
-# HTML_And_CSS_Template_Two
+# Elzero Template
+HTML and CSS Template
