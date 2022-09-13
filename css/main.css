@@ -194,7 +194,7 @@ header .main-nav {
   }
 }
 
-header .main-nav > li:hover .magia-menu {
+header .main-nav > li .special-magia-menu {
   opacity: 1;
   z-index: 1000;
   top: calc(100% + 1px);
